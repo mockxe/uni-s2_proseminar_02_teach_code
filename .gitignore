@@ -1,0 +1,10 @@
+.idea/
+
+empty.asm
+example.asm
+example.ir
+example.ir.dot
+example.ir.png
+example.o
+example_direct
+example_manual
